@@ -1,0 +1,93 @@
+/* color palette for project is as follows 
+	Yale Blue #054A91
+	Steel Blue #3E7CB1
+	Iceberg #81A4CD
+	Burnt Sienna #DD6E42
+	Light Goldenrod Yellow #F0F0C9	
+*/
+body{
+	margin-left: 50px;
+	margin-right: 50px;
+	background-color: #F9F9F9;
+}
+.article{
+	background-color: white;
+	max-width: 1000px;
+	padding-right: 15px;
+	padding-left: 15px;
+	border: .5px solid black;
+}
+.story_top{
+	font-family: 'Shippori Antique', sans-serif;
+	max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#headline{
+	font-size: 40px;
+	margin-bottom: 15px;
+}
+#time_stamp{
+	font-size: 12px;
+	color: #81A4CD;
+}
+#byline{
+	font-size: 15px;
+	color: #3E7CB1;
+	font-weight: bold;
+}
+.dom_image{
+	max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Open Sans", sans-serif;
+}
+#image1{
+	width: 100%;
+}
+h3{
+	font-family: 'Shippori Antique', sans-serif; 
+}
+a{
+	color: #DD6E42;
+}
+#caption1{
+	font-size: 12px;
+	color: #81A4CD;
+	margin-top: 5px;
+	max-width: 700px;
+	line-height: 20px;
+}
+.story_text{
+	font-family: "Georgia", serif;
+	font-size: 18.5px;
+	max-width: 800px;
+	line-height: 30px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.data_visualization_1{
+	max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Open Sans", sans-serif;
+}
+.data_visualization_2{
+	max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Open Sans", sans-serif;
+}
+.data_visualization_3{
+	max-width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	font-family: "Open Sans", sans-serif;
+}
+
+
+
+
+
+
+
